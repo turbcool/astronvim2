@@ -7,8 +7,9 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
+  { import = "astrocommunity.colorscheme.vscode-nvim" },
   { import = "astrocommunity.pack.docker" },
-  { import = "astrocommunity.pack.xml" },
+  --{ import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.svelte" },
