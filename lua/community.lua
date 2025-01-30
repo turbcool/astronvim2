@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.vscode-nvim" },
   { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.editing-support.undotree" },
+  { import = "astrocommunity.editing-support.vim-move" },
   { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.pack.docker" },
   --{ import = "astrocommunity.pack.xml" },
